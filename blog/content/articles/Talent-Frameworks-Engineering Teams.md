@@ -1,6 +1,6 @@
 Title: Talent. Frameworks. Engineering Teams.
 Date: 2016-06-18 16:00
-Category: Frameworks, Hiring, Engineering Teams
+Category: Hiring
 Tags: south-east-asia, hiring, djang, laravel, rails
 Slug: talen-framework-engineering-teams
 Authors: Quijano Flores
